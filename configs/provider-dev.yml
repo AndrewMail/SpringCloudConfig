@@ -1,4 +1,2 @@
-server:
-   port: 8009
 custom:
    name: This is dev
