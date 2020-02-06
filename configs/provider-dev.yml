@@ -1,2 +1,4 @@
 custom:
    name: This is dev haha666
+server:
+   port: 9002
